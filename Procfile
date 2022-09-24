@@ -1,1 +1,1 @@
-web: java -jar target/exams.jar
+web: java -jar exams.jar
