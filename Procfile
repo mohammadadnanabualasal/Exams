@@ -1,1 +1,1 @@
-web: java -jar target/exams-0.0.1-SNAPSHOT.war
+web: java -war target/exams-0.0.1-SNAPSHOT.war
